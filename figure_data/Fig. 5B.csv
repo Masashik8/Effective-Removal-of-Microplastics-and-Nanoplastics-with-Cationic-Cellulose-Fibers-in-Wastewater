@@ -1,0 +1,17 @@
+﻿,cycle 1,cycle 2,cycle 3,cycle 4,cycle 5
+,removal efficiency (%),removal efficiency (%),removal efficiency (%),removal efficiency (%),removal efficiency (%)
+turbidity_test #1,98.4,96.9,96.3,96.6,95.7
+turbidity_test #2,98.9,95.2,96.9,96.5,96.0
+turbidity_test #3,98.7,97.0,97.2,96.5,96.8
+turbidity_Average,98.6,96.4,96.8,96.5,96.2
+turbidity_SD,0.2,0.8,0.4,0.1,0.5
+polystyrene 1 um_test #1,99.6,98.7,97.9,95.6,93.5
+polystyrene 1 um_test #2,99.6,98.9,97.8,95.5,93.6
+polystyrene 1 um_test #3,99.6,98.9,97.8,95.6,93.6
+polystyrene 1 um_Average,99.6,98.9,97.8,95.5,93.6
+polystyrene 1 um_SD,0.0,0.1,0.0,0.0,0.0
+polystyrene 20 nm_test #1,95.4,87.8,84.0,82.3,81.3
+polystyrene 20 nm_test #2,95.3,87.3,84.2,82.2,80.8
+polystyrene 20 nm_test #3,95.6,87.2,83.9,82.1,80.8
+polystyrene 20 nm_Average,95.4,87.4,84.0,82.2,81.0
+polystyrene 20 nm_SD,0.1,0.2,0.1,0.1,0.2

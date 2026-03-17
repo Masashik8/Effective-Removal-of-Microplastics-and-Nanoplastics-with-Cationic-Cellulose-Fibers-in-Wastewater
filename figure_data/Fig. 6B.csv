@@ -1,0 +1,32 @@
+﻿,no fiber,cationic fiber
+,removal efficiency (%),removal efficiency (%)
+open bar_1 um_test #1,100.0,100.0
+open bar_1 um_test #2,100.0,100.0
+open bar_1 um_test #3,100.0,100.0
+open bar_1 um_Average,100.0,100.0
+open bar_1 um_SD,0.0,0.0
+open bar_200 nm_test #1,54.5,90.0
+open bar_200 nm_test #2,73.1,89.9
+open bar_200 nm_test #3,40.0,97.5
+open bar_200 nm_Average,55.9,92.5
+open bar_200 nm_SD,13.6,3.6
+open bar_20 nm_test #1,57.6,76.5
+open bar_20 nm_test #2,68.7,83.7
+open bar_20 nm_test #3,51.3,87.7
+open bar_20 nm_Average,59.2,82.6
+open bar_20 nm_SD,7.2,4.6
+dotted bar_1 um_test #1,45.5,95.5
+dotted bar_1 um_test #2,65.6,93.5
+dotted bar_1 um_test #3,,96.0
+dotted bar_1 um_Average,55.6,95.0
+dotted bar_1 um_SD,10.1,1.1
+dotted bar_200 nm_test #1,20.2,81.2
+dotted bar_200 nm_test #2,38.2,83.9
+dotted bar_200 nm_test #3,32.7,
+dotted bar_200 nm_Average,30.3,82.5
+dotted bar_200 nm_SD,7.5,1.4
+dotted bar_20 nm_test #1,24.5,83.7
+dotted bar_20 nm_test #2,20.1,72.2
+dotted bar_20 nm_test #3,25.4,
+dotted bar_20 nm_Average,23.3,77.9
+dotted bar_20 nm_SD,2.3,5.7

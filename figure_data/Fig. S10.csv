@@ -1,0 +1,33 @@
+﻿volume of wastewater,turbidity (NTU),TSS (mg/L)
+30mL_test #1,76.5,216.7
+30mL_test #2,75.4,203.3
+30mL_test #3,76.2,203.3
+30mL_test #4,,210.0
+30mL_test #5,,200.0
+30mL_Average,76.0,206.7
+30mL_SD,0.4,6.0
+25mL_test #1,60.0,172.2
+25mL_test #2,59.4,
+25mL_test #3,59.0,
+25mL_Average,59.4,172.2
+25mL_SD,0.4,0.0
+20mL_test #1,49.8,137.8
+20mL_test #2,50.0,
+20mL_test #3,49.4,
+20mL_Average,49.7,137.8
+20mL_SD,0.2,0.0
+15mL_test #1,37.1,103.3
+15mL_test #2,36.4,
+15mL_test #3,36.3,
+15mL_Average,36.6,103.3
+15mL_SD,0.4,0.0
+10mL_test #1,24.9,68.9
+10mL_test #2,25.0,
+10mL_test #3,24.2,
+10mL_Average,24.7,68.9
+10mL_SD,0.3,0.0
+5mL_test #1,12.4,34.4
+5mL_test #2,11.9,
+5mL_test #3,12.1,
+5mL_Average,12.1,34.4
+5mL_SD,0.2,0.0
